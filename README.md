@@ -20,7 +20,9 @@ Generate a MAC by hashing the combined data (using a simple hash function like X
 Verify the MAC by recomputing it using the same method and comparing it with the transmitted MAC.
 
 # PROGRAM:
-```C
+```
+NAME:VESLIN ANISH A
+REGISTER NO:212223240175
 #include <stdio.h>
 #include <string.h>
 
@@ -92,9 +94,7 @@ int main() {
 
 ```
 # OUTPUT:
-
-![Screenshot 2024-10-22 222932](https://github.com/user-attachments/assets/0a640d9e-c836-4832-86c1-a0cae83f8ce8)
-
+![Screenshot 2024-10-23 231540](https://github.com/user-attachments/assets/0eac829d-efb4-4069-b00b-6aee7cfd2bad) 
 
 # RESULT:
 Thus, the Message Authentication Code (MAC) algorithm has been successfully implemented in C.
